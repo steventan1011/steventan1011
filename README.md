@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently a MSc. Student @ [Ualberta](https://www.ualberta.ca/index.html)
   - Research on Model Compression on Vision Transformer
-- 📫 BS. & BMgt @ [BeihangU](https://ev.buaa.edu.cn/)
+- 📫 BS. & BMgt. @ [BeihangU](https://ev.buaa.edu.cn/)
 - 💞️ SDE intern @ [Baidu](https://www.baidu.com/)
   - Search function on [paddlepaddle's website](https://www.paddlepaddle.org.cn/)
   - CMS
