@@ -2,9 +2,11 @@
 
 [Linkedin](https://www.linkedin.com/in/binkaitan/) / [Leetcode](https://leetcode.com/tanbinkai1011/)
 
-- 🌱 I'm currently a MSc. Student [@Ualberta](https://www.ualberta.ca/index.html)
+- 🌱 I'm currently a ECE MSc. Student [@Ualberta](https://www.ualberta.ca/index.html)
   - Research on Model Compression on Vision Transformer
-- 📫 BS. & BMgt. [@BeihangU](https://ev.buaa.edu.cn/)
+- 📫 Bachelor [@BeihangU](https://ev.buaa.edu.cn/)
+  - BMgt. in Mangement of Information Systems
+  - BSc. in Applied Mathematics
 - 💞️ SDE intern [@Baidu](https://www.baidu.com/)
   - Search function on [paddlepaddle's website](https://www.paddlepaddle.org.cn/)
   - CMS
