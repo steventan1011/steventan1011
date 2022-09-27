@@ -2,7 +2,7 @@
 
 [Linkedin](https://www.linkedin.com/in/binkaitan/) / [Leetcode](https://leetcode.com/tanbinkai1011/)
 
-- 🌱 I'm currently a ECE MSc. Student [@Ualberta](https://www.ualberta.ca/index.html)
+- 🌱 I'm currently a ECE MEng. Student [@Ualberta](https://www.ualberta.ca/index.html)
   - Research on Model Compression on Vision Transformer
 - 📫 Bachelor [@BeihangU](https://ev.buaa.edu.cn/)
   - BMgt. in Mangement of Information Systems
